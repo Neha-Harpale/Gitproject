@@ -43,7 +43,7 @@ public class AddInput {
 	
 	System.out.print(" The sum of " +n1+ n2+n3 +n4 +n5 +n6 +n7 +n8 +n9 +n10+ " is "   +(n1+n2+n3+n4+n5+n6+n7+n8+n9+n10) );
 	
-	
+	System.ou.print("This is Total");
 	
 	}
 
